@@ -1,0 +1,19 @@
+npx create-react-app .
+npm install antd --save
+npm install -D tailwindcss
+npx tailwindcss init
+npm install react-router-dom
+npm install react-router-dom@5.8.6
+
+npm install mongoose
+npm install dotenv
+npm install cors
+npm install bcryptjs
+
+npm install @ant-design/charts
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install react-to-print
+npm install morgan
+npm install react-highlight-words
+npm install react-native-dotenv

@@ -1,0 +1,10 @@
+client
+	header.jsx
+	userSlice.jsx
+	bill.jsx
+
+server
+	routes/auth
+	models/auth
+	models/user
+

@@ -1,0 +1,11 @@
+npm remove @ant-design/charts
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install @ant-design/charts
+packagejson antd@4.24.4
+orginal packagejson antd@5.8.6
+npm install
+npm install react-to-print
+npm install morgan
+npm install react-highlight-words
+npm install react-native-dotenv

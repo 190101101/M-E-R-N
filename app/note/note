@@ -1,0 +1,104 @@
+base\03 create project\06 React Installation
+base\03 create project\07 Ant Design Installation
+base\03 create project\08 Tailwind CSS Installation
+base\03 create project\09 General Project Settings
+
+base\04 header\10 header
+base\04 header\11 header responsive
+
+base\05 home\12 Home Page
+base\05 home\13 Categories Component
+base\05 home\14 Products Component
+base\05 home\15 Cart Totals Component
+base\05 home\16 Cart item
+base\05 home\17 Home Page Responsive
+
+base\06 react router dom\18 router
+base\06 react router dom\19 home router
+
+base\07 cart\20 Cart Page
+base\07 cart\21 Cart Page Modal
+base\07 cart\22 Cart Page Form
+base\07 cart\23 Link Usage
+
+base\08 bill\24 Bill Page
+base\08 bill\25 Invoice Design
+base\08 bill\26 Invoice Table Responsive
+base\08 bill\27 Customers Page
+
+base\09 statistics\28 Page Setup
+base\09 statistics\29 Card
+base\09 statistics\30 Card Component
+base\09 statistics\31 Ant Design Charts Setup
+base\09 statistics\32 Page Responsive
+
+base\10 auth\33 register
+base\10 auth\34 carousel
+base\10 auth\35 login
+
+base\11 server\36 watch
+base\11 server\37 express
+
+base\12 db\38 MongoDB Installation
+base\12 db\39 Category Model Creation
+base\12 db\40 Creating a Product Model
+base\12 db\41 Bill Model Creation
+base\12 db\42 Creating a User Model
+
+base\13 express router\43 Express Router Setup
+base\13 express router\44 Category CRUD Operations
+base\13 express router\45 Product CRUD Operations
+base\13 express router\46 Bill CRUD Transactions
+base\13 express router\47 User Registration Process
+base\13 express router\48 Creating a Secure Password
+base\13 express router\49 User Login Process
+base\13 express router\50 User GET Operations
+
+base\14 category client api\51 Category POST Process
+base\14 category client api\52 Category GET Operation
+base\14 category client api\53 Separating the Category into Components
+base\14 category client api\54 Edit Category
+base\14 category client api\55 Deleting a Category
+
+base\15 product client api\56 Product GET Operation
+base\15 product client api\57 Product POST Process
+base\15 product client api\58 Product Page Making
+base\15 product client api\59 Product PUT Operation
+base\15 product client api\60 Product DELETE Operation
+
+base\16 redux cart\61 Redux-Toolkit Installation
+base\16 redux cart\62 Add to Cart Process
+base\16 redux cart\63 The Process of Adding the Same Product to the Cart
+base\16 redux cart\64 Deleting a Product from the Cart
+base\16 redux cart\65 Basket Price Calculation Procedures
+base\16 redux cart\66 Increasing or Decreasing Product Quantity
+base\16 redux cart\67 Basket Cleaning Process
+
+base\17 invoice\68 Cart Page
+base\17 invoice\69 Invoice Creation
+base\17 invoice\70 Invoice Page
+base\17 invoice\71 Invoice Calculation
+base\17 invoice\72 Invoice Printing
+
+base\18 user statistics\73 Customer Page
+base\18 user statistics\74 Statistics Page
+base\18 user statistics\75 Register Transaction
+base\18 user statistics\76 Login Process
+base\18 user statistics\77 Route Control
+
+base\19 filter search\78 Product Filter
+base\19 filter search\79 Product Search
+base\19 filter search\80 Cart Page Table Filter
+base\19 filter search\81 Bill Page Filter
+base\19 filter search\82 Customer Page Filter
+base\19 filter search\83 Statistic Page Dynamic User
+
+base\20 other\84 Page Loading Procedures
+base\20 other\85 Header Active Action
+base\20 other\86 Basket Local Storage Transaction
+
+base\21 deployment\87 Determining the API Path
+base\21 deployment\88 deployment
+
+base\22 own\01 user status
+base\22 own\02 css

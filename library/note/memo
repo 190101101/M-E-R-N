@@ -1,0 +1,23 @@
+"antd": "^5.8.6",
+
+npm install @ant-design/charts --save
+
+antd@"^4.6.3"
+npm install antd@"^4.6.3"
+
+---
+https://www.udemy.com/course/full-stack-mern-pos-uygulama-projesi-mern-stack-proje/learn/lecture/35143310#questions/20483900
+
+08.06 deqiqe
+----
+
+"antd": "^5.8.6",
+[]
+
+
+npm remove @ant-design/charts
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install @ant-design/charts
+packagejson antd@4.24.4
+npm install
